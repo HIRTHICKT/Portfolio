@@ -1,1 +1,1 @@
-https://hirthickt.github.io/Portfolio/
+https://hirthickt.github.io/Portfolio/portfolio.html
